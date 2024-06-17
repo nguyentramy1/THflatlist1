@@ -10,3 +10,7 @@ If you're having problems, you can tweet to us [@expo](https://twitter.com/expo)
 
 Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
 "# THflatlist1" 
+
+
+![image](https://github.com/nguyentramy1/THflatlist1/assets/168984915/d7de5157-7341-40df-a0ed-015ff60a5fa5)
+
